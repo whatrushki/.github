@@ -1,12 +1,10 @@
 <div align="center">
 
-<img src="banner.png" alt="WHAT Technologies Banner" width="100%" />
+<img src="banner.webp" alt="WHAT Technologies Banner" width="100%" />
 
-<br/><br/>
+<b>WHAT</b> TECHNOLOGIES
 
-# <b>WHAT TECHNOLOGIES</b>
-
-**Cross-platform applications, modern web interfaces & infrastructure.**
+<i>Cross-platform applications, modern web interfaces & infrastructure.</i>
 
 <br/>
 
@@ -18,7 +16,7 @@
 
 ---
 
-### Стек
+### Стэк
 
 ![Compose Multiplatform](https://img.shields.io/badge/Compose_Multiplatform-09090b?style=for-the-badge&logo=jetpackcompose&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-09090b?style=for-the-badge&logo=kotlin&logoColor=white)
