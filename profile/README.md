@@ -8,8 +8,8 @@
 
 <br/>
 
-[![Website](https://img.shields.io/badge/WEBSITE-what.tech-09090b?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=000000)](https://what.tech)
-[![Telegram](https://img.shields.io/badge/TELEGRAM-09090b?style=for-the-badge&logo=telegram&logoColor=white&labelColor=000000)](https://t.me/what_tech)
+[![Website](https://img.shields.io/badge/WEBSITE-whatrushki.github.io-09090b?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=000000)](https://whatrushki.github.io)
+[![Telegram](https://img.shields.io/badge/TELEGRAM-09090b?style=for-the-badge&logo=telegram&logoColor=white&labelColor=000000)](https://t.me/whatrushki)
 [![Email](https://img.shields.io/badge/CONTACT-hello@what.tech-09090b?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:hello@what.tech)
 
 </div>
